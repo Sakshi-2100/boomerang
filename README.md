@@ -9,7 +9,7 @@ within 30 minutes. It is built using [AngularJS](https://angularjs.org/) and
 
 See it in action: http://gdg-x.github.io/boomerang
 
-Configuration
+Configuration!!!
 ---------------
 Update `app/services/configService.js` with values appropriate for your group:
 
